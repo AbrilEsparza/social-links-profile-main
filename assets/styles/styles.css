@@ -12,8 +12,6 @@ body {
     font-optical-sizing: auto;
     font-style: normal;
     font-size: 14px !important;
-    flex: 2; 
-    height: 100vh;
     align-content: center;
     justify-items: center;
     color: var(--white) !important;
